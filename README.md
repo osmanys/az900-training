@@ -102,11 +102,11 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 
 **Which term from the list below would be viewed as benefits of using cloud services?**
 
-- [] Unpredictable costs
+- [ ] Unpredictable costs
 
-- [] Elasticity
+- [x] Elasticity
 
-- [] Local reach only
+- [ ] Local reach only
 
 **Suppose you have two types of applications: legacy applications that require specialized mainframe hardware and newer applications that can run on commodity hardware. Which cloud deployment model would be best for you?**
 
