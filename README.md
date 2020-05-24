@@ -100,29 +100,29 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 
 ### [Knowledge Check](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/6-knowledge-check)
 
-**Which term from the list below would be viewed as benefits of using cloud services?**
+- **Which term from the list below would be viewed as benefits of using cloud services?**
 
-- [ ] Unpredictable costs
+    - [ ] Unpredictable costs
 
-- [x] Elasticity
+    - [x] Elasticity
 
-- [ ] Local reach only
+    - [ ] Local reach only
 
-**Suppose you have two types of applications: legacy applications that require specialized mainframe hardware and newer applications that can run on commodity hardware. Which cloud deployment model would be best for you?**
+- **Suppose you have two types of applications: legacy applications that require specialized mainframe hardware and newer applications that can run on commodity hardware. Which cloud deployment model would be best for you?**
 
-- [] Public cloud
+    - [ ] Public cloud
 
-- [] Private cloud
+    - [ ] Private cloud
 
-- [] Hybrid cloud
+    - [x] Hybrid cloud
 
-**You're developing an application and want to focus on building, testing, and deploying. You don't want to worry about managing the underlying hardware or software. Which cloud service type is best for you?**
+- **You're developing an application and want to focus on building, testing, and deploying. You don't want to worry about managing the underlying hardware or software. Which cloud service type is best for you?**
 
-- [] Infrastructure as a Service (IaaS)
+    - [ ] Infrastructure as a Service (IaaS)
 
-- [] Platform as a Service (PaaS)
+    - [x] Platform as a Service (PaaS)
 
-- [] Software as a Service (SaaS)
+    - [ ] Software as a Service (SaaS)
 
 ### [Summary](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/7-summary)
 
