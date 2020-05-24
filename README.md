@@ -14,4 +14,4 @@ This repository is meant to help you get certified in **Microsoft Azure Fundamen
 ## Summary
 - ### [Cloud Concepts - Principles of cloud computing](learning-path/principles-cloud-computing.md)
 
-[![Start learning path](images/next.jpg)](learning-path/principles-cloud-computing.md)
+[![Start learning path](images/next.png)](learning-path/principles-cloud-computing.md)
