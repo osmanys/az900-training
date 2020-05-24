@@ -46,7 +46,7 @@ EU Model Clauses
 
 ## [Economies of scale](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3b-economies-of-scale)
 
-This cost advantage is an important benefit in cloud computing. Th cloud providers can then pass the savings on to their customers.
+*Economies of scale* is the ability to do things more efficiently or at a lower-cost per unit when operating at a larger scale. This cost advantage is an important benefit in cloud computing.
 
 ## [Capital expenditure (CapEx) versus operational expenditure (OpEx)](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3c-capex-vs-opex)
 
@@ -120,3 +120,6 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 - The different cloud services available, the benefits of using the different types, and the management responsibilities under each service type.
 - Cloud models such as public, private and hybrid, and what the key characteristics of each model are.
 - The different types of cloud service available: IaaS, PaaS, and SaaS; what the key characteristics of each service are and when you would choose one over the other.
+
+\
+[![Create an Azure account](../images/next.png)](learning-path/create-an-azure-account.md)
