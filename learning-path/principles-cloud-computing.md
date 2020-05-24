@@ -122,4 +122,4 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 - The different types of cloud service available: IaaS, PaaS, and SaaS; what the key characteristics of each service are and when you would choose one over the other.
 
 \
-[![Create an Azure account](../images/next.png)](learning-path/create-an-azure-account.md)
+[![Create an Azure account](../images/next.png)](create-an-azure-account.md)
