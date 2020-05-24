@@ -100,7 +100,7 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 
 ### [Knowledge Check](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/6-knowledge-check)
 
-**Which term from the list below would be viewed as benefits of using cloud services?**
+- **Which term from the list below would be viewed as benefits of using cloud services?**
 
     - [ ] Unpredictable costs
 
@@ -108,7 +108,7 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 
     - [ ] Local reach only
 
-**Suppose you have two types of applications: legacy applications that require specialized mainframe hardware and newer applications that can run on commodity hardware. Which cloud deployment model would be best for you?**
+- **Suppose you have two types of applications: legacy applications that require specialized mainframe hardware and newer applications that can run on commodity hardware. Which cloud deployment model would be best for you?**
 
     - [ ] Public cloud
 
@@ -116,7 +116,7 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 
     - [x] Hybrid cloud
 
-**You're developing an application and want to focus on building, testing, and deploying. You don't want to worry about managing the underlying hardware or software. Which cloud service type is best for you?**
+- **You're developing an application and want to focus on building, testing, and deploying. You don't want to worry about managing the underlying hardware or software. Which cloud service type is best for you?**
 
     - [ ] Infrastructure as a Service (IaaS)
 
@@ -126,3 +126,8 @@ SaaS is software that is centrally hosted and managed for the end customer. It i
 
 ### [Summary](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/7-summary)
 
+- Different types of cloud models that are available and the considerations of using those different models.
+- Some of the key terms and concepts such as high availability, agility, elasticity, fault tolerance, and CapEx vs. OpEx.
+- The different cloud services available, the benefits of using the different types, and the management responsibilities under each service type.
+- Cloud models such as public, private and hybrid, and what the key characteristics of each model are.
+- The different types of cloud service available: IaaS, PaaS, and SaaS; what the key characteristics of each service are and when you would choose one over the other.
