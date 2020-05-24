@@ -20,4 +20,10 @@ This repository is meant to help you get certified in **Microsoft Azure Fundamen
 - ### [](.md)
 
 \
-[![Start learning path](images/next.png)](learning-path/principles-cloud-computing.md)
+[![Start learning path](images/start.png)](learning-path/principles-cloud-computing.md)
+
+## Contributing
+This project was created to keep a centralized place for all the resources I needed to become proficient in Azure. Feel free to suggest or add other resources that might be relevant or let me know if some of the resources are unavailable.
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
