@@ -13,11 +13,11 @@ This repository is meant to help you get certified in **Microsoft Azure Fundamen
 
 ## Summary
 - ### [Cloud Concepts - Principles of cloud computing](learning-path/principles-cloud-computing.md)
-- ### [Create an Azure account](create-an-azure-account.md)
-- ### [Core Cloud Services - Introduction to Azure](welcome-to-azure.md)
-- ### [Core Cloud Services - Azure architecture and service guarantees](explore-azure-infrastructure.md)
-- ### [](.md)
-- ### [](.md)
+- ### [Create an Azure account](learning-path/create-an-azure-account.md)
+- ### [Core Cloud Services - Introduction to Azure](learning-path/welcome-to-azure.md)
+- ### [Core Cloud Services - Azure architecture and service guarantees](learning-path/explore-azure-infrastructure.md)
+- ### [Core Cloud Services - Manage services with the Azure portal](learning-path/tour-azure-portal.md)
+- ### [](learning-path/.md)
 
 \
 [![Start learning path](images/start.png)](learning-path/principles-cloud-computing.md)

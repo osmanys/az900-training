@@ -46,35 +46,23 @@ You might want to create additional subscriptions for resource or billing manage
 ## [Knowledge check](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/6-knowledge-check)
 
 - **Which of the following statements is true about an Azure subscription?**
-
    - [ ] Using Azure does not require a subscription
-
    - [x] An Azure subscription is a logical unit of Azure services
-
    - [ ] You can't have more than one subscription
 
 - **Your billing is based on your usage of Azure resources and is invoiced ______________**
-
    - [ ] Annually
-
    - [x] Monthly
-
    - [ ] Daily
 
 - **When you create an Azure resource like a virtual machine, you select the ______________ it belongs to.**
-
    - [ ] Billing account
-
    - [ ] Billing profile
-
    - [x] Azure subscription
 
 - **Which Azure support plan is best for business-critical workloads?**
-
    - [ ] Azure Developer
-
    - [x] Azure Professional Direct
-
    - [ ] Azure Standard
 
 ## [Summary](https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/7-summary)
