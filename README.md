@@ -17,6 +17,8 @@ This repository is meant to help you get certified in **Microsoft Azure Fundamen
 - ### [Core Cloud Services - Introduction to Azure](learning-path/welcome-to-azure.md)
 - ### [Core Cloud Services - Azure architecture and service guarantees](learning-path/explore-azure-infrastructure.md)
 - ### [Core Cloud Services - Manage services with the Azure portal](learning-path/tour-azure-portal.md)
+- ### [Core Cloud Services - Azure compute options](learning-path/intro-to-azure-compute.md)
+- ### [](learning-path/.md)
 - ### [](learning-path/.md)
 
 \

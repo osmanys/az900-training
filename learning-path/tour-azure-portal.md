@@ -92,11 +92,37 @@ A dashboard is a customizable collection of UI tiles displayed in the Azure port
 
 ## [Access public and private preview features](https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/8-preview-features)
 
+Microsoft offer previews of Azure features for evaluation purposes. With *Azure Preview Features*, you can test beta and other pre-release features, products, services, software, and regions.
 
+Once a feature has been evaluated and tested successfully, it might be released to customers as part of Azure's default product set. This release is referred to as **General Availability** (GA).
 
-## []()
+- Feature preview categories:
+    - Private Preview
+    - Public Preview
+- Azure portal preview features (https://preview.portal.azure.com)
+- Provide feedback on preview features
+- Get notified about GA releases
 
+## [Summary](https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/9-summary)
 
+- You have learned how to sign into Azure using an Azure account.
+- You reviewed the features of the Azure portal and its customization options.
+- You created, customized, and shared a dashboard.
+
+### Check your knowledge
+- **An Azure dashboard is stored as which type of file?**
+    - [ ] XML
+    - [x] JSON
+    - [ ] PNG
+
+- **Azure Advisor provides advice on which of these topics:**
+    - [ ] Creating an Azure account
+    - [x] Best practices and security for your services
+    - [ ] Using the Azure portal effectively
+
+- **True or false: Azure Cloud Shell is an interactive, browser-accessible shell for managing Azure resources?**
+    - [x] True
+    - [ ] False
 
 \
-[![](../images/next.png)](.md)
+[![Core Cloud Services - Azure compute options](../images/next.png)](intro-to-azure-compute.md)
