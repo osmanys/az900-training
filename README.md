@@ -20,7 +20,7 @@ This repository is meant to help you get certified in **Microsoft Azure Fundamen
 - ### [Core Cloud Services - Azure compute options](learning-path/intro-to-azure-compute.md)
 - ### [Core Cloud Services - Azure data storage options](learning-path/intro-to-data-in-azure.md)
 - ### [Core Cloud Services - Azure networking options](learning-path/intro-to-azure-networking.md)
-- ### [](learning-path/.md)
+- ### [Security, responsibility, and trust in Azure](learning-path/intro-to-security-in-azure.md)
 - ### [](learning-path/.md)
 - ### [](learning-path/.md)
 - ### [](learning-path/.md)
