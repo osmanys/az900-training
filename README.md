@@ -23,7 +23,7 @@ This repository is meant to help you get certified in **Microsoft Azure Fundamen
 - ### [Security, responsibility, and trust in Azure](learning-path/intro-to-security-in-azure.md)
 - ### [Apply and monitor infrastructure standards with Azure Policy](learning-path/intro-to-governance.md)
 - ### [Control and organize Azure resources with Azure Resource Manager](learning-path/control-and-organize-with-azure-resource-manager.md)
-- ### [](learning-path/.md)
+- ### [Predict costs and optimize spending for Azure](learning-path/predict-costs-and-optimize-spending.md)
 
 \
 [![Start learning path](images/start.png)](learning-path/principles-cloud-computing.md)
