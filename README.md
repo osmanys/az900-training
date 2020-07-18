@@ -1,7 +1,6 @@
 ![Resume AZ-900](images/az900.png "Exam AZ-900")
 
 # Resume AZ-900: Microsoft Azure Fundamentals
-[(* This exam will be updated on May 28, 2020)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
 
 This repository is meant to help you get certified in **Microsoft Azure Fundamentals** (For more information go to [https://medium.com/@osmanys](https://medium.com/@osmanys)). The information and objectives in this repository is based on the Microsoft website: 
 [Azure fundamentals learning path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
