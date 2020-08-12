@@ -110,7 +110,7 @@ Resource locks can be applied to subscriptions, resource groups, and to individu
 ## [Check your Knowledge](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/7-quiz)
 
 - **Tags can be applied to any type of resource on Azure**
-    - [] True
+    - [ ] True
     - [x] False
 - **Tags applied at a resource group level are propagated to resources within the resource group.**
     - [ ] True
@@ -121,9 +121,9 @@ Resource locks can be applied to subscriptions, resource groups, and to individu
     - [x] Resource groups can be nested.
     - [ ] Role-based access control can be applied to the resource group.
 - **Which of the following approaches might be a good usage of tags?**
-    - [] Using tags to associate a cost center with resources for internal chargeback
-    - [] Using tags in conjunction with Azure Automation to schedule maintenance windows
-    - [] Using tags to store environment and department association
+    - [ ] Using tags to associate a cost center with resources for internal chargeback
+    - [ ] Using tags in conjunction with Azure Automation to schedule maintenance windows
+    - [ ] Using tags to store environment and department association
     - [x] All of the above are good ways to use tags
 - **Which of the following approaches would be the most efficient way to ensure a naming convention was followed across your subscription?**
     - [ ] Send out an email with the details of your naming conventions and hope it is followed
